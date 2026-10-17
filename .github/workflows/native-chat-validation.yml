@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - feat/native-chat-section
+      - integration/native-chat-i18n-twelve-languages
   workflow_dispatch:
 
 permissions:
