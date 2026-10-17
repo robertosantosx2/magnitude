@@ -649,6 +649,7 @@ export const ur = {
   korean: "کوریائی",
   vietnamese: "ویتنامی",
   indonesian: "انڈونیشیائی",
+  chat: "چیٹ",
   noModelsDownloaded: "ابھی تک کوئی ماڈل ڈاؤن لوڈ نہیں ہوا۔ دریافت میں ماڈل تلاش کریں۔",
   couldNotCheckAvailableModels: "دستیاب ماڈلز کی جانچ نہیں ہو سکی",
   restartServerToApply: "{reason} تبدیلیاں لاگو کرنے کے لیے Magnitude سرور دوبارہ شروع کریں۔",
