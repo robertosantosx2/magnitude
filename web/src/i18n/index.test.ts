@@ -17,6 +17,8 @@ describe("i18n catalogs", () => {
   test("supports English, Spanish, Simplified Chinese, Hindi, Urdu, Bengali, French, German, Japanese, Portuguese, Italian and Ukrainian", () => {
     expect(translate("en", "settings")).toBe("Settings")
     expect(translate("es", "settings")).toBe("Ajustes")
+    expect(translate("es", "chat")).toBe("Chat")
+    expect(translate("zh-CN", "chat")).toBe("聊天")
     expect(translate("zh-CN", "settings")).toBe("设置")
     expect(translate("hi", "settings")).toBe("सेटिंग्स")
     expect(translate("ur", "settings")).toBe("ترتیبات")
