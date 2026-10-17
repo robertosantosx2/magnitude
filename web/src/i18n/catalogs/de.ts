@@ -649,6 +649,7 @@ export const de = {
   korean: "Koreanisch",
   vietnamese: "Vietnamesisch",
   indonesian: "Indonesisch",
+  chat: "Chat",
   noModelsDownloaded: "Noch keine Modelle heruntergeladen. Finden Sie eines unter Entdecken.",
   couldNotCheckAvailableModels: "Verfügbare Modelle konnten nicht überprüft werden",
   restartServerToApply: "{reason} Starten Sie den Magnitude-Server neu, um die Änderungen anzuwenden.",
