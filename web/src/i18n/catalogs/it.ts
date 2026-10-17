@@ -649,6 +649,7 @@ export const it = {
   korean: "Coreano",
   vietnamese: "Vietnamita",
   indonesian: "Indonesiano",
+  chat: "Chat",
   noModelsDownloaded: "Non hai ancora scaricato modelli. Cercane uno in Scopri.",
   couldNotCheckAvailableModels: "Impossibile verificare i modelli disponibili",
   restartServerToApply: "{reason} Riavvia il server Magnitude per applicare le modifiche.",
