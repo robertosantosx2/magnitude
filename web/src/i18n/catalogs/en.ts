@@ -646,6 +646,7 @@ export const en = {
   computer: "Computer",
   laptopTablet: "Laptop / tablet",
   savedAppearanceReadError: "The saved appearance could not be read. Using System appearance.",
+  chat: "Chat",
   noModelsDownloaded: "No models downloaded yet. Find one in Discover.",
   couldNotCheckAvailableModels: "Could not check available models",
   restartServerToApply: "{reason} Restart the Magnitude server to apply the changes.",
