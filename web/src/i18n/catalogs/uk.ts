@@ -649,6 +649,7 @@ export const uk = {
   korean: "Корейська",
   vietnamese: "В’єтнамська",
   indonesian: "Індонезійська",
+  chat: "Чат",
   noModelsDownloaded: "Моделі ще не завантажено. Знайдіть модель у розділі «Огляд».",
   couldNotCheckAvailableModels: "Не вдалося перевірити доступні моделі",
   restartServerToApply: "{reason} Перезапустіть сервер Magnitude, щоб застосувати зміни.",
